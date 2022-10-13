@@ -1,0 +1,28 @@
+node-array-flatten (2.1.0-2) unstable; urgency=medium
+
+  * Team upload
+  * Bump debhelper compatibility level to 12
+  * Declare compliance with policy 4.5.0
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Add debian/gbp.conf
+  * Add upstream/metadata
+  * Use pkg-js-tools auto install
+  * Enable upstream test using mocha
+  * Update VCS fields to salsa
+  * Update lintian overrides
+  * Update copyright
+
+ -- Xavier Guimard <yadd@debian.org>  Tue, 18 Feb 2020 22:27:29 +0100
+
+node-array-flatten (2.1.0-1) unstable; urgency=medium
+
+  * new upstream version
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Sun, 19 Jun 2016 18:22:21 +0200
+
+node-array-flatten (2.0.0-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Tue, 23 Feb 2016 18:22:21 +0100
